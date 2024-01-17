@@ -1,0 +1,18 @@
+body{
+    padding:50px;
+    background-color: rgb(66, 175, 215);
+    background-size: cover;
+}
+.container{
+    max-width: 800px;
+    margin:0 auto;
+    padding:100px;
+    box-shadow: rgba(69, 69, 77, 0.2) 0px 7px 29px 0px;
+}
+.converse{
+    max-width: 400px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgb(66, 175, 215)
+
+}
